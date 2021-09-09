@@ -1,0 +1,7 @@
+Konfigurasi nya
+
+1.Setting base_url nya menjadi link web kalian contoh : http://localhost/simulasi/ci/ , seeting di application/config/config
+2.buat database yang namanya ci
+3.import file ci.sql
+4.setting database , ada di application/config/database , sesuaikan dengan yang kalian buat.
+5.jalankan di browser

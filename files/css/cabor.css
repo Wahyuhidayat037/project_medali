@@ -1,0 +1,14 @@
+.margin-right {
+	margin-right: 8px;
+}
+
+.dropdown-menu a:hover {
+	background-color: rgba(41, 255, 88, 0.55);
+	color: black;
+}
+
+.aktiv {
+	background-color: rgba(41, 255, 88, 0.55);
+	color: black;
+}
+
